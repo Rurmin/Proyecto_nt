@@ -1,0 +1,24 @@
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# .NET / Backend
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# IDE / Configuración Local (OBLIGATORIO)
+.vscode/
+.idea/
+
+# Entornos y Secretos
+.env
+.env.*
+appsettings.Development.json
+
+# Logs y Sistema
+*.log
+.DS_Store
